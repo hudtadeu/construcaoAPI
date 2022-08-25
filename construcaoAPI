@@ -1,0 +1,27 @@
+2022-08-25T17:42:40.068Z [construcaoa] info: API Started!
+2022-08-25T17:43:12.191Z [construcaoapi] info: API Started!
+2022-08-25T17:43:16.261Z [construcaoapi] info: API Started!
+2022-08-25T17:45:03.034Z [construcaoAPI] info: API Started!
+2022-08-25T17:47:57.400Z [construcaoAPI] info: API Started!
+2022-08-25T17:48:19.367Z [construcaoAPI] error: POST /account - undefined
+2022-08-25T17:49:38.581Z [construcaoAPI] info: API Started!
+2022-08-25T17:50:43.902Z [construcaoAPI] info: API Started!
+2022-08-25T17:51:47.631Z [construcaoAPI] info: API Started!
+2022-08-25T17:56:14.683Z [construcaoAPI] info: API Started!
+2022-08-25T17:57:00.242Z [construcaoAPI] info: API Started!
+2022-08-25T17:57:49.979Z [construcaoAPI] info: API Started!
+2022-08-25T17:58:21.227Z [construcaoAPI] info: PUT /account - {"id":1,"name":"José Chaves","balance":2351.2}
+2022-08-25T17:59:18.664Z [construcaoAPI] info: API Started!
+2022-08-25T18:00:04.708Z [construcaoAPI] info: API Started!
+2022-08-25T18:00:59.948Z [construcaoAPI] info: API Started!
+2022-08-25T18:01:39.112Z [construcaoAPI] info: PUT /account - {"id":1,"name":"Bernado Alves","balance":2351.2}
+2022-08-25T18:02:57.030Z [construcaoAPI] info: API Started!
+2022-08-25T18:03:27.714Z [construcaoAPI] info: PATCH /account/updateBalance - {"id":3,"balance":1251.2}
+2022-08-25T18:05:05.283Z [construcaoAPI] info: API Started!
+2022-08-25T18:06:17.244Z [construcaoAPI] info: API Started!
+2022-08-25T18:07:46.003Z [construcaoAPI] info: API Started!
+2022-08-25T18:08:13.424Z [construcaoAPI] info: API Started!
+2022-08-25T18:08:45.841Z [construcaoAPI] info: API Started!
+2022-08-25T18:08:57.489Z [construcaoAPI] info: API Started!
+2022-08-25T18:09:05.416Z [construcaoAPI] error: PUT /account - undefined
+2022-08-25T18:09:14.171Z [construcaoAPI] error: PATCH /account - undefined

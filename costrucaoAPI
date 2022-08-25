@@ -24,3 +24,6 @@
 2022-08-25T17:15:30.526Z [costrucaoAPI] info: API Started!
 2022-08-25T17:16:03.735Z [costrucaoAPI] info: GET /account/:id
 2022-08-25T17:16:08.986Z [costrucaoAPI] info: GET /account
+2022-08-25T17:36:11.469Z [costrucaoAPI] info: API Started!
+2022-08-25T17:37:03.692Z [costrucaoAPI] info: API Started!
+2022-08-25T17:37:19.338Z [costrucaoAPI] info: POST /account - {"id":7,"name":"João Silva","balance":3451.2}

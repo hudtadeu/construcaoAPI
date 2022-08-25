@@ -15,10 +15,10 @@ global.logger = winston.createLogger({
   level: "silly",
   transports: [
     new (winston.transports.Console)(),
-    new (winston.transports.File)({ filename: "costrucaoAPI" })
+    new (winston.transports.File)({ filename: "construcaoAPI" })
   ],
   format: combine(
-    label({ label: "costrucaoAPI" }),
+    label({ label: "construcaoAPI" }),
     timestamp(),
     myFormat
   )

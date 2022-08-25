@@ -1,1 +1,30 @@
-{"nextId":7,"accounts":[{"id":1,"name":"Gilson Costa","balance":3451.4},{"id":2,"name":"Hudson Tadeu","balance":200},{"id":3,"name":"Bernado Alves","balance":2000.5},{"id":4,"name":"José Chaves","balance":1251.2}]}
+{
+  "nextId": 6,
+  "accounts": [
+    {
+      "id": 1,
+      "name": 2351.2,
+      "balance": 2351.2
+    },
+    {
+      "id": 2,
+      "name": "Hudson Tadeu",
+      "balance": 200
+    },
+    {
+      "id": 3,
+      "name": "Bernado Alves",
+      "balance": 1251.2
+    },
+    {
+      "id": 4,
+      "name": "José Chaves",
+      "balance": 1251.2
+    },
+    {
+      "id": 5,
+      "name": "João Silva",
+      "balance": 3451.2
+    }
+  ]
+}
