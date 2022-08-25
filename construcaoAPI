@@ -25,3 +25,12 @@
 2022-08-25T18:08:57.489Z [construcaoAPI] info: API Started!
 2022-08-25T18:09:05.416Z [construcaoAPI] error: PUT /account - undefined
 2022-08-25T18:09:14.171Z [construcaoAPI] error: PATCH /account - undefined
+2022-08-25T18:37:59.946Z [construcaoAPI] info: API Started!
+2022-08-25T18:38:18.580Z [construcaoAPI] info: API Started!
+2022-08-25T18:38:31.878Z [construcaoAPI] info: API Started!
+2022-08-25T18:40:13.332Z [construcaoAPI] info: GET /account
+2022-08-25T18:41:13.475Z [construcaoAPI] info: GET /account
+2022-08-25T18:41:14.474Z [construcaoAPI] info: GET /account
+2022-08-25T18:41:47.957Z [construcaoAPI] info: GET /account
+2022-08-25T18:42:17.344Z [construcaoAPI] info: GET /account
+2022-08-25T18:44:18.060Z [construcaoAPI] info: GET /account
